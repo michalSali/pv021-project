@@ -1,0 +1,4 @@
+/app/extra/clion/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/tompsota/Documents/School/pv021/pv021-FashionMNIST-project
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/tompsota/Documents/School/pv021/pv021-FashionMNIST-project/cmake-build-debug

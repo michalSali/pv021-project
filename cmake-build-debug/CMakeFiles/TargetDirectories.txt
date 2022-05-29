@@ -1,0 +1,3 @@
+/home/tompsota/Documents/School/pv021/pv021-FashionMNIST-project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tompsota/Documents/School/pv021/pv021-FashionMNIST-project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tompsota/Documents/School/pv021/pv021-FashionMNIST-project/cmake-build-debug/CMakeFiles/pv021_FashionMNIST_project.dir

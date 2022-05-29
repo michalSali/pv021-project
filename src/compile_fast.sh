@@ -1,0 +1,1 @@
+g++ -Wall -Werror -std=c++17 main.cpp matrix.cpp IOUtils.cpp network.cpp tests.cpp -o network -Ofast -ffp-contract=fast -funsafe-math-optimizations -march=native -msse2 -mfpmath=sse -ftree-vectorize -fopenmp
